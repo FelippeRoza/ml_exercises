@@ -15,3 +15,4 @@ To only visualize the material, access the following links:
 
 * [Decision Tree Learning](https://nbviewer.jupyter.org/github/FelippeRoza/ml_exercises/blob/master/classification/Decision_Tree.ipynb)
 * [Logistic Regression](https://nbviewer.jupyter.org/github/FelippeRoza/ml_exercises/blob/master/classification/Logistic_Regression.ipynb)
+* [Classification Using Perceptrons](https://nbviewer.jupyter.org/github/FelippeRoza/ml_exercises/blob/master/classification/Classification%20Using%20Perceptrons.ipynb)
